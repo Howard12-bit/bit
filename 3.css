@@ -1,0 +1,8 @@
+body {background-color:blue}
+div {text-indent:45px; margin:40px; padding:100px 10px 20px 120px; height:300px; width:1650px; overflow:auto; background-color:red; color:brown; font-style:italic; font-weight:bolder; font-size:46px; font-family:serif; border-style:ridge; border-width:thick; border-color: yellow}
+div:hover {color:white; background-color:black}
+div.rose {padding: 200px 60px 10px 50px; height:400px; width:1700px; color:green}
+a {margin-left: 60px; color:red; font-size:45px; text-decoration:none; border-style:dotted}
+a:hover {color:green; text-decoration:overline; font-size:100px}
+h1 {text-align:center; color:orange; font-size:70px; font-family:serif; border-style:double; border-color:green}
+h1:hover {color:green; background-color:yellow}
